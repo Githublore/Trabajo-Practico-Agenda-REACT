@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, #cfbcef, #83aade);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    display: wrap;
+}
+
+.contenedor-contactos h1{
+    color: rgba(251, 248, 251, 0.8);
+    align-items: center;
+    margin-top: 40px;
+    font-size: 35px;
+    margin-left: 180px;
+}
